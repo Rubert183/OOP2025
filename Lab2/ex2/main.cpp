@@ -1,7 +1,8 @@
 #include <iostream>
 #include "Student.h"
 #include "Student.cpp"
-#include "Global.cpp"
+#include "global.h"
+#include "global.cpp"
 
 void show_message(const char* message, int state)
 {
